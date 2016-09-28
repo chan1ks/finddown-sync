@@ -1,0 +1,6 @@
+sudo: false
+language: node_js
+rvm:
+ - 6
+ - 5
+ - 4
