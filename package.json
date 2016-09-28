@@ -1,0 +1,40 @@
+{
+  "name": "finddown-sync",
+  "version": "0.1.0",
+  "description": "Recursive downward search from base directory.",
+  "main": "index.js",
+  "scripts": {
+    "test": "write a test script"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chan1ks/finddown-sync.git"
+  },
+  "keywords": [
+    "find",
+    "down",
+    "pattern",
+    "match",
+    "finddown",
+    "find-down",
+    "search",
+    "file",
+    "path",
+    "resolve"
+  ],
+  "author": "chan1ks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chan1ks/finddown-sync/issues"
+  },
+  "homepage": "https://github.com/chan1ks/finddown-sync#readme",
+  "devDependencies": {
+    "findup-sync": "^0.4.2"
+  },
+  "engine": {
+    "node": "4.2.6"
+  },
+  "dependencies": {
+    "resolve-dir": "^0.1.1"
+  }
+}
