@@ -1,7 +1,7 @@
 {
   "name": "finddown-sync",
   "version": "1.0.0",
-  "description": "Recursive downward search from base directory for matching files.",
+  "description": "Recursive downward search for al files matching a given pattern from the current directory and child directories",
   "main": "index.js",
   "files": [
     "index.js"
@@ -39,15 +39,11 @@
     "resolve-dir": "^0.1.1"
   },
   "devDependencies": {
-    "lodash": "^4.16.2",
     "chai": "^3.5.0",
-    "findup-sync": "^0.4.2",
     "fs-exists-sync": "^0.1.0",
-    "jasmine": "^2.5.2",
+    "lodash": "^4.16.2",
     "mocha": "^3.1.0",
-    "os-homedir": "^1.0.2",
-    "resolve": "^1.1.7",
-    "resolve-dir": "^0.1.1"
+    "resolve": "^1.1.7"
   },
   "engine": {
     "node": ">=0.10.0"
