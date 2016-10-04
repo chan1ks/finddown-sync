@@ -1,6 +1,6 @@
 {
   "name": "finddown-sync",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Recursive downward search for al files matching a given pattern from the current directory and child directories",
   "main": "index.js",
   "files": [
@@ -33,6 +33,7 @@
   "homepage": "https://github.com/chan1ks/finddown-sync#readme",
   "dependencies": {
     "detect-file": "^0.1.0",
+    "exclude-match": "^1.0.0",
     "is-directory": "^0.3.1",
     "is-glob": "^3.0.0",
     "micromatch": "^2.3.11",
