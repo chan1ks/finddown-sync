@@ -4,7 +4,7 @@ var path = require('path');
 var resolveDir = require('resolve-dir');
 var mm = require('micromatch');
 var isDir = require('is-directory');
-var exclude = require('./lib/exclude');
+var exclude = require('exclude-match');
 
 function tryReaddirSync(fp) {
     try {
