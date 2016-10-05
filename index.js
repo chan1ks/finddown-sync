@@ -15,8 +15,8 @@ function tryReaddirSync(fp) {
 }
 
 function directify(cwd, arr, opts) {
-    opts.exclude = opts.exclude || [];
-    return exclude(arr, opts).map(function (v) {
+    var pattern = opts.exclude || [];
+    return exclude(arr, pattern, opts).map(function (v) {
         return path.resolve(cwd, v);
     });
 }
