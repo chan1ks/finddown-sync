@@ -1,6 +1,6 @@
 {
   "name": "finddown-sync",
-  "version": "1.1.0",
+  "version": "2.1.0",
   "description": "Recursive downward search for al files matching a given pattern from the current directory and child directories",
   "main": "index.js",
   "files": [
