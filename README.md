@@ -46,7 +46,7 @@ For bugs or feature requests, [please create an issue](https://github.com/chan1k
 
 ## Release History
 
-2016-10-05 - v1.0.0 - Updated README.md.   
+2016-10-06 - v1.0.0 - Updated README.md. Refactored for [exclusion-match].  
 2016-10-01 - v0.2.0 - Updated dependencies. Deprecated exclude function and moved it into a separate dependency.  
 2016-09-20 - v0.1.0 - Initial release.  
 
