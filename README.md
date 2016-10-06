@@ -46,6 +46,7 @@ For bugs or feature requests, [please create an issue](https://github.com/chan1k
 
 ## Release History
 
+2016-10-06 - v1.0.2 - Modified CI build config.  
 2016-10-06 - v1.0.1 - Updated README build status.  
 2016-10-06 - v1.0.0 - Updated README. Refactored for [exclusion-match].  
 2016-10-01 - v0.2.0 - Updated dependencies. Deprecated exclude function and moved it into a separate dependency.  
