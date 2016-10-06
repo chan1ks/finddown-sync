@@ -1,4 +1,4 @@
-# finddown-sync
+# finddown-sync [![npm version](https://badge.fury.io/js/finddown-sync.svg)](https://badge.fury.io/js/finddown-sync) [![Build Status](https://travis-ci.org/chan1ks/finddown-sync.svg?branch=master)](https://travis-ci.org/chan1ks/finddown-sync)
 
 > Find all files matching a given pattern in the current directory or child directories. The sibling and opposite function to [findup-sync].
 
@@ -46,7 +46,8 @@ For bugs or feature requests, [please create an issue](https://github.com/chan1k
 
 ## Release History
 
-2016-10-06 - v1.0.0 - Updated README.md. Refactored for [exclusion-match].  
+2016-10-06 - v1.0.1 - Updated README build status.  
+2016-10-06 - v1.0.0 - Updated README. Refactored for [exclusion-match].  
 2016-10-01 - v0.2.0 - Updated dependencies. Deprecated exclude function and moved it into a separate dependency.  
 2016-09-20 - v0.1.0 - Initial release.  
 
